@@ -1,0 +1,277 @@
+@charset "UTF-8";
+
+@font-face {
+font-family: Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, 'Helvetica Neue', 'Segoe UI', 'Apple SD Gothic Neo', 'Noto Sans KR', 'Malgun Gothic', sans-serif;
+src:url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css');
+font-weight: normal;
+font-style: normal;
+}
+
+body, html {
+	height: 100%;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+.container {
+	background-color: #FFFFFF;
+	width: 98.5%;
+	margin-left: 0px;
+	margin-right: auto;
+	border-bottom-width: 0px;
+	padding-left: 1.5%;
+	padding-top: 10px;
+	padding-right: 0%;
+	padding-bottom: 0px;
+}
+.row {
+	width: 100%;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	display: inline-block
+}
+.hair1{
+	width: 62.1%;
+	height: 40px;
+	background-color:linear-gradient(to bottom, #dbdbdb, #bdbdbd);
+	box-shadow: 0px -3px 6px 0 rgba(0,0,0,0.07), 0 0 0 0 rgba(0,0,0,0.07);
+	margin-left: -1px; 
+	margin-right: 0px;
+	margin-top: 22px;
+	padding-bottom: 0px;
+	padding-top: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	border: 0 ;
+	border-top-left-radius: 9px;
+	border-top-right-radius: 9px;
+	
+}
+.hair2{
+	width: 33.15%;
+	height: 40px;
+	background-color:linear-gradient(to bottom, #bdbdbd, #dbdbdb);
+	box-shadow: 0px -3px 6px 0 rgba(0,0,0,0.07), 0 0 0 0 rgba(0,0,0,0.07);
+	margin-left: 3.67%; 
+	margin-right: 0px;
+	margin-top: 22px;
+	padding-bottom: 0px;
+	padding-top: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	border: 0 ;
+	border-top-left-radius: 9px;
+	border-top-right-radius: 9px;
+	
+}
+
+.columns_plus1 {
+	width: 31%;
+	float: left;
+	font-family: "Pretendard";
+	font-size: 14px;
+	color: #000000;
+	line-height: 29px;
+	background-image: linear-gradient(to bottom, #ffffff, #ebebeb);
+	box-shadow: -2px 3px 6px 0px rgba(0,0,0,0.07), 0 0 0 0 rgba(0,0,0,0.07);
+	padding-top: 15px;
+	padding-bottom: 10px;
+	text-align: left ;
+	margin-top: -5px;
+	margin-bottom: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+.columns_plus2 {
+	width: 31%;
+	float: left;
+	font-family: "Pretendard";
+	font-size: 14px;
+	color: #000000;
+	line-height: 29px;
+	background-image: linear-gradient(to bottom, #ffffff, #ebebeb);
+	box-shadow: 2px 3px 6px 0px rgba(0,0,0,0.07), 0 0 0 0 rgba(0,0,0,0.07);
+	padding-top: 15px;
+	padding-bottom: 10px;
+	text-align: left ;
+	margin-top: -5px;
+	margin-bottom: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	margin-left: 0px;
+	margin-right: 4%;
+}
+
+.last_columns {
+	width: 33%;
+	height: 1450px;
+	float: left;
+	align-content: center;
+	background-image: linear-gradient(to bottom, #ffffff, #ebebeb);
+	box-shadow: 0px 3px 6px 0px rgba(0,0,0,0.07), 0 0 0 0 rgba(0,0,0,0.07);
+	padding-top: 10px;
+	padding-bottom: 0px;
+	margin-top: -5px;
+	margin-bottom: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.numbers{
+	margin-left: 20px;
+}
+.face_group{
+	height: 100%;
+	background-image: linear-gradient(to bottom, #fffff, #ebebeb);
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	overflow: hidden;
+}
+.face {
+	display: inline-block;
+	align-content: center;
+	width: 49px;
+	height: 56px;
+	padding-left: 5px;
+	padding-right: 5px;
+	margin-left: 15px;
+	margin-right: 15px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.columns_2 {
+	width: initial;
+	float: left;
+	font-family: 'Pretendard','Noto Sans KR', 'Apple SD Gothic NEO';
+	font-size: 14px;
+	color: #000000;
+	line-height: 29px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	text-align: left ;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	margin-left: 0px;
+	margin-right: 20px;
+}
+
+
+
+#all{
+	font-size: 15px;
+	font-family: 'Pretendard',url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css');
+	font-weight: 600;
+	background-color:#ffffff;
+	box-shadow: 0 5px 10px 0 rgba(0,0,0,0.1), 0 2px 5px 0 rgba(0,0,0,0.07);
+	margin-left: 20px; 
+	margin-right: 20px;
+	padding-bottom: 6px;
+	padding-top: 6px;
+	padding-left: 33px;
+	padding-right: 33px;
+	border: 1.5px ;
+	border-radius: 9px;
+}
+#confirm{
+	font-size: 15px;
+	font-family: 'Pretendard',url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css');
+	font-weight: 600;
+	background-color:#0087ff;
+	color: white;
+	box-shadow: 0 5px 10px 0 rgba(0,0,0,0.1), 0 2px 5px 0 rgba(0,0,0,0.07);
+	margin-left: 20px; 
+	margin-right: 20px;
+	padding-bottom: 6px;
+	padding-top: 6px;
+	padding-left: 33px;
+	padding-right: 33px;
+	border: 1.5px ;
+	border-radius: 9px;
+}
+
+.primary_header {
+	display: block;
+	background-image: #FFFFFF;
+	padding-top: 10px;
+	padding-left: 0px;
+	padding-right: 20px;
+	padding-bottom: 0px;
+	clear: left;
+	border-bottom: 2px;
+}
+
+#title{
+	width: 81px;
+}
+
+hr.line{
+	border-top: 0.75px solid #969696;
+}
+
+.secondary_header {
+	position: sticky;
+	position: -webkit-sticky;
+	bottom: 0;
+	width: 100%;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	box-shadow: 0px -6px 5px -2px rgba(0,0,0,0.07), 0px 0px 0 rgba(0,0,0,0.07);
+	background-color: #FFFFFF;
+	clear: left;
+	text-align: center;
+	color: #FFFFFF3;
+	font-weight: normal;
+	letter-spacing: 2px;
+	border-top-width: 2px;
+	font-family: 'Pretendard';
+}
+
+
+.noDisplay {
+	display: none;
+}
+
+
+
+.footer {
+	background-color: #FFFFFF;
+}
+
+.placeholder {
+	/* [disabled]max-width: 400px;
+*/
+	/* [disabled]max-height: 200px;
+*/
+	width: 100%;
+	padding-top: 30px;
+	/* [disabled]padding-left: 19px;
+*/
+	padding-bottom: 30px;
+	height: 100%;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%
+}
+
+.sticky + .content {
+  padding-top: 102px;
+}
+
